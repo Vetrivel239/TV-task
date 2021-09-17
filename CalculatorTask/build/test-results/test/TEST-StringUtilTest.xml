@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringUtilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-17T23:20:47" hostname="vetrivel-ka-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="ShouldGetLengthOfTheString" classname="StringUtilTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
